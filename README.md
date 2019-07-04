@@ -37,6 +37,12 @@ Awesome Go Go Go
 
 * [pinhole](https://github.com/tidwall/pinhole) - **star:481**&ensp;3D Wireframe Drawing Library for Go
 
+* [gg](https://github.com/fogleman/gg) - **star:1873**&ensp;Go Graphics - 2D rendering in Go with a simple API.
+
+## Image
+
+* [primitive](https://github.com/fogleman/primitive) - **star:10261**&ensp;Reproducing images with geometric primitives.
+
 ## Terminal
 
 * [pony](https://github.com/tidwall/pony) - **star:17**&ensp;🌈 🐴 Turn your terminal text into an absolutely beautiful display of dazzling colors....
