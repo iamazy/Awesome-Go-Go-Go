@@ -129,6 +129,8 @@ Awesome Go Go Go
 
 * [termshark](https://github.com/gcla/termshark) - **star:4470**&ensp;A terminal UI for tshark, inspired by Wireshark
 
+* [go-sniffer](https://github.com/40t/go-sniffer) - **star:729**&ensp;🔎Sniffing and parsing mysql,redis,http,mongodb etc protocol. 抓包截取项目中的数据库请求并解析成相应的语句。
+
 ## Linq
 
 * [go-linq](https://github.com/iamazy/go-linq) - **star:1767**&ensp;.NET LINQ capabilities in Go
