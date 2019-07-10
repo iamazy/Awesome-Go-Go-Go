@@ -19,6 +19,8 @@ Awesome Go Go Go
 
 * [Go](https://github.com/TheAlgorithms/Go) - **star:977**&ensp;Algorithms Implemented in GoLang
 
+* [go-radix](https://github.com/armon/go-radix) - **star:450**&ensp;Golang implementation of Radix trees
+
 * [btree](https://github.com/google/btree) - **star:1632**&ensp;
 
 * [syncmap](https://github.com/a8m/syncmap) - **star:139**&ensp;A typed implementation of the Go sync.Map using code generation.
@@ -78,10 +80,6 @@ Awesome Go Go Go
 * [go-life](https://github.com/sachaos/go-life) - **star:51**&ensp;Terminal based Conway's Game of Life. Implemented in Go.
 
 * [CHAOS](https://github.com/tiagorlampert/CHAOS) - **star:734**&ensp;:fire: CHAOS is a PoC that allow generate payloads and control remote operating systems.
-
-## Data Structure
-
-* [go-radix](https://github.com/armon/go-radix) - **star:450**&ensp;Golang implementation of Radix trees
 
 ## Net
 
