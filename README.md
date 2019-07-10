@@ -8,12 +8,22 @@ Awesome Go Go Go
 
 * [cache2go](https://github.com/muesli/cache2go) - **star:926**&ensp;Concurrency-safe Go caching library with expiration capabilities and access counters
 
+* [go-cache](https://github.com/patrickmn/go-cache) - **star:2809**&ensp;An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 
-## Algorithm
+* [buntdb](https://github.com/tidwall/buntdb) - **star:2423**&ensp;BuntDB is an embeddable, in-memory key/value database for Go with custom indexing and geospatial support
+
+
+## Algorithm & Data structure
 
 * [kmeans](https://github.com/muesli/kmeans) - **star:180**&ensp;k-means clustering algorithm implementation written in Go
 
 * [Go](https://github.com/TheAlgorithms/Go) - **star:977**&ensp;Algorithms Implemented in GoLang
+
+* [btree](https://github.com/google/btree) - **star:1632**&ensp;
+
+* [syncmap](https://github.com/a8m/syncmap) - **star:139**&ensp;A typed implementation of the Go sync.Map using code generation.
+
+* [syncmap](https://github.com/DeanThompson/syncmap) - **star:113**&ensp;A thread safe map implementation for Golang
 
 ## JSON
 
@@ -43,9 +53,27 @@ Awesome Go Go Go
 
 * [primitive](https://github.com/fogleman/primitive) - **star:10261**&ensp;Reproducing images with geometric primitives.
 
+* [smartcrop](https://github.com/muesli/smartcrop) - **star:1243**&ensp;smartcrop finds good image crops for arbitrary crop sizes
+
+* [sticker](https://github.com/muesli/sticker) - **star:69**&ensp;A Golang lib to generate placeholder images with text
+
+* [goiv](https://github.com/gen2brain/goiv) - **star:166**&ensp;Small and simple image viewer written in pure Go.
+
+## Color
+
+* [colors](https://github.com/go-playground/colors) - **star:30**&ensp;:art: Go color manipulation, conversion and printing library/utility
+
 ## Terminal
 
+* [gowid](https://github.com/gcla/gowid/tree/master/examples) - **star:360**&ensp;Compositional widgets for terminal user interfaces, written in Go, inspired by urwid.
+
+* [gocui](https://github.com/jroimartin/gocui) - **star:5103**&ensp;Minimalist Go package aimed at creating Console User Interfaces.
+
 * [pony](https://github.com/tidwall/pony) - **star:17**&ensp;🌈 🐴 Turn your terminal text into an absolutely beautiful display of dazzling colors....
+
+* [gomatrix](https://github.com/GeertJohan/gomatrix) - **star:177**&ensp;Displays "The Matrix" in a terminal
+ 
+* [go-life](https://github.com/sachaos/go-life) - **star:51**&ensp;Terminal based Conway's Game of Life. Implemented in Go.
 
 ## Data Structure
 
@@ -73,10 +101,26 @@ Awesome Go Go Go
 
 * [mux](https://github.com/gorilla/mux) - **star:9367**&ensp;A powerful HTTP router and URL matcher for building Go web servers with 🦍
 
+* [yamux](https://github.com/iamazy/yamux) - **star:1077**&ensp;Golang connection multiplexing library
+
+* [smux](https://github.com/xtaci/smux) - **star:507**&ensp;Simple Stream Multiplexing for golang
+
 ## Interesting
 
 * [digitalrain](https://github.com/tidwall/digitalrain) - **star:305**&ensp;Matrix Digital Rain written in Go for HTML5 + Canvas
 
-## design-pattern
+## Design-pattern
 
 * [golang-design-pattern](https://github.com/senghoo/golang-design-pattern) - **star:1017**&ensp;设计模式 Golang实现－《研磨设计模式》读书笔记
+
+## Video
+
+* [mjpeg](https://github.com/icza/mjpeg) - **star:32**&ensp;MJPEG video writer implementation in Go.
+
+## Hacker
+
+* [gopacket](https://github.com/google/gopacket) - **star:2796**&ensp;Provides packet processing capabilities for Go
+
+## 杂项
+
+* [go-linq](https://github.com/iamazy/go-linq) - **star:1767**&ensp;.NET LINQ capabilities in Go
