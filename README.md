@@ -37,6 +37,8 @@ Awesome Go Go Go
 
 * [geojson](https://github.com/tidwall/geojson) - **star:38**&ensp;GeoJSON for Go. Used by Tile38
 
+* [jd](https://github.com/tidwall/jd) - **star:126**&ensp;Interactive JSON Editor
+
 * [gojsonq](https://github.com/thedevsaddam/gojsonq) - **star:834**&ensp;A simple Go package to Query over JSON/YAML/XML/CSV Data
 
 ## Trigger
