@@ -121,6 +121,8 @@ Awesome Go Go Go
 
 * [gopacket](https://github.com/google/gopacket) - **star:2796**&ensp;Provides packet processing capabilities for Go
 
+* [termshark](https://github.com/gcla/termshark) - **star:4470**&ensp;A terminal UI for tshark, inspired by Wireshark
+
 ## 杂项
 
 * [go-linq](https://github.com/iamazy/go-linq) - **star:1767**&ensp;.NET LINQ capabilities in Go
