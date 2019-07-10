@@ -75,6 +75,8 @@ Awesome Go Go Go
  
 * [go-life](https://github.com/sachaos/go-life) - **star:51**&ensp;Terminal based Conway's Game of Life. Implemented in Go.
 
+* [CHAOS](https://github.com/tiagorlampert/CHAOS) - **star:734**&ensp;:fire: CHAOS is a PoC that allow generate payloads and control remote operating systems.
+
 ## Data Structure
 
 * [go-radix](https://github.com/armon/go-radix) - **star:450**&ensp;Golang implementation of Radix trees
@@ -82,6 +84,8 @@ Awesome Go Go Go
 ## Net
 
 * [go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) - **star:1500**&ensp;Next-generation Shadowsocks in Go
+
+* [go-iptables](https://github.com/coreos/go-iptables) - **star:387**&ensp;Go wrapper around iptables utility
 
 ## Schedule
 
@@ -105,6 +109,8 @@ Awesome Go Go Go
 
 * [smux](https://github.com/xtaci/smux) - **star:507**&ensp;Simple Stream Multiplexing for golang
 
+* [muxie](https://github.com/kataras/muxie) - **star:166**&ensp;Muxie is a modern, fast and light HTTP multiplexer for Go. Fully compatible with the http.Handler interface. Written for everyone.
+
 ## Interesting
 
 * [digitalrain](https://github.com/tidwall/digitalrain) - **star:305**&ensp;Matrix Digital Rain written in Go for HTML5 + Canvas
@@ -123,6 +129,13 @@ Awesome Go Go Go
 
 * [termshark](https://github.com/gcla/termshark) - **star:4470**&ensp;A terminal UI for tshark, inspired by Wireshark
 
-## 杂项
+## Linq
 
 * [go-linq](https://github.com/iamazy/go-linq) - **star:1767**&ensp;.NET LINQ capabilities in Go
+
+## Expression
+* [go-tagexpr](https://github.com/bytedance/go-tagexpr) - **star:502**&ensp;An interesting go struct tag expression syntax for field validation, etc.
+
+## C
+
+* [kilo](https://github.com/antirez/kilo)  - **star:4134**&ensp;A text editor in less than 1000 LOC with syntax highlight and search.
