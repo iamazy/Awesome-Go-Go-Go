@@ -105,7 +105,7 @@ Awesome Go Go Go
 
 * [mux](https://github.com/gorilla/mux) - **star:9367**&ensp;A powerful HTTP router and URL matcher for building Go web servers with 🦍
 
-* [yamux](https://github.com/iamazy/yamux) - **star:1077**&ensp;Golang connection multiplexing library
+* [yamux](https://github.com/hashicorp/yamux) - **star:1077**&ensp;Golang connection multiplexing library
 
 * [smux](https://github.com/xtaci/smux) - **star:507**&ensp;Simple Stream Multiplexing for golang
 
