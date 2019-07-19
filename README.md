@@ -16,6 +16,8 @@ Awesome Go Go Go
 
 * [summitdb](https://github.com/tidwall/summitdb) - **star:1219**&ensp;In-memory NoSQL database with ACID transactions, Raft consensus, and Redis API
 
+* [freecache](https://github.com/coocood/freecache) - **star:2208**&ensp;A cache library for Go with zero GC overhead.
+
 ## Math
 * [hexd](https://github.com/tidwall/hexd) - **star:37**&ensp;Please love the nicely formatted hex.
 
