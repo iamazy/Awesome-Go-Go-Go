@@ -18,6 +18,8 @@ Awesome Go Go Go
 
 * [freecache](https://github.com/coocood/freecache) - **star:2208**&ensp;A cache library for Go with zero GC overhead.
 
+* [bigcache](https://github.com/allegro/bigcache) - **star:2421**&ensp;Efficient cache for gigabytes of data written in Go.
+
 ## Math
 * [hexd](https://github.com/tidwall/hexd) - **star:37**&ensp;Please love the nicely formatted hex.
 
