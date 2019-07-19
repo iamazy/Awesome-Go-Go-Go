@@ -12,6 +12,15 @@ Awesome Go Go Go
 
 * [buntdb](https://github.com/tidwall/buntdb) - **star:2423**&ensp;BuntDB is an embeddable, in-memory key/value database for Go with custom indexing and geospatial support
 
+* [vasto](https://github.com/chrislusf/vasto) - **star:145**&ensp;A distributed key-value store. On Disk. Able to grow or shrink without service interruption.
+
+* [summitdb](https://github.com/tidwall/summitdb) - **star:1219**&ensp;In-memory NoSQL database with ACID transactions, Raft consensus, and Redis API
+
+## Math
+* [hexd](https://github.com/tidwall/hexd) - **star:37**&ensp;Please love the nicely formatted hex.
+
+* [weyl](https://github.com/tidwall/weyl) - **star:6**&ensp;Middle Square Weyl Sequence RNG for Go
+
 
 ## Algorithm & Data structure
 
@@ -27,6 +36,23 @@ Awesome Go Go Go
 
 * [syncmap](https://github.com/DeanThompson/syncmap) - **star:113**&ensp;A thread safe map implementation for Golang
 
+* [go.uuid](https://github.com/satori/go.uuid) - **star:3096**&ensp;UUID package for Go
+
+* [go-datastructures](https://github.com/Workiva/go-datastructures) - **star:5095**&ensp;A collection of useful, performant, and threadsafe Go datastructures.
+
+* [celltree](https://github.com/tidwall/celltree) - **star:197**&ensp;A fast in-memory prefix tree that uses uint64 for keys and allows for duplicate entries.
+
+* [boxtree](https://github.com/tidwall/boxtree) - **star:97**&ensp;An R-tree implementation for Go
+
+* [rtree](https://github.com/tidwall/rtree) - **star:37**&ensp;RTree implementation for Go
+
+* [fastlane](https://github.com/tidwall/fastlane) - **star:310**&ensp;Fast multi-producer / single-consumer channels for Go
+
+* [grect](https://github.com/tidwall/grect) - **star:2**&ensp;Get the outer rectangle from GeoJSON, WKT, WKB
+
+* [bpool](https://github.com/oxtoacart/bpool) - **star:303**&ensp;Buffer/Byte pool for Go
+
+
 ## JSON
 
 * [match](https://github.com/tidwall/match) - **star:38**&ensp;Simple string pattern matcher for Go
@@ -40,6 +66,8 @@ Awesome Go Go Go
 * [geojson](https://github.com/tidwall/geojson) - **star:38**&ensp;GeoJSON for Go. Used by Tile38
 
 * [jd](https://github.com/tidwall/jd) - **star:126**&ensp;Interactive JSON Editor
+
+* [jj](https://github.com/tidwall/jj) -**star:831**&ensp;JSON Stream Editor (command line utility)
 
 * [gojsonq](https://github.com/thedevsaddam/gojsonq) - **star:834**&ensp;A simple Go package to Query over JSON/YAML/XML/CSV Data
 
@@ -63,9 +91,17 @@ Awesome Go Go Go
 
 * [goiv](https://github.com/gen2brain/goiv) - **star:166**&ensp;Small and simple image viewer written in pure Go.
 
+* [screenshot](https://github.com/kbinani/screenshot) - **star:238**&ensp;Go library to capture desktop to image
+
+* [imaging](https://github.com/disintegration/imaging) - **star:2486**&ensp;Imaging is a simple image processing package for Go
+
 ## Color
 
 * [colors](https://github.com/go-playground/colors) - **star:30**&ensp;:art: Go color manipulation, conversion and printing library/utility
+
+* [go-colorful](https://github.com/lucasb-eyer/go-colorful) - **star:666**&ensp;A library for playing with colors in go (golang).
+
+* [gamut](https://github.com/muesli/gamut) - **star:105**&ensp;Go package to generate and manage color palettes & schemes
 
 ## Terminal
 
@@ -111,6 +147,10 @@ Awesome Go Go Go
 
 * [muxie](https://github.com/kataras/muxie) - **star:166**&ensp;Muxie is a modern, fast and light HTTP multiplexer for Go. Fully compatible with the http.Handler interface. Written for everyone.
 
+* [janusec](https://github.com/Janusec/janusec) - **star:436**&ensp;Janusec Application Gateway, a Golang based application security solution which provides WAF (Web Application Firewall), CC attack defense, unified web administration portal, private key protection, web routing and scalable load balancing.
+
+* [limiter](https://github.com/tidwall/limiter) - **star:97**&ensp;A goroutine limiter for Go
+
 ## Interesting
 
 * [digitalrain](https://github.com/tidwall/digitalrain) - **star:305**&ensp;Matrix Digital Rain written in Go for HTML5 + Canvas
@@ -133,10 +173,21 @@ Awesome Go Go Go
 
 ## Linq
 
-* [go-linq](https://github.com/iamazy/go-linq) - **star:1767**&ensp;.NET LINQ capabilities in Go
+* [go-linq](https://github.com/ahmetb/go-linq) - **star:1767**&ensp;.NET LINQ capabilities in Go
 
 ## Expression
 * [go-tagexpr](https://github.com/bytedance/go-tagexpr) - **star:502**&ensp;An interesting go struct tag expression syntax for field validation, etc.
+
+## Desktop
+* [beeep](https://github.com/gen2brain/beeep) - **star:415**&ensp;Go cross-platform library for sending desktop notifications, alerts and beeps
+
+* [ui](https://github.com/andlabs/ui) - **star:6882**&ensp;Platform-native GUI library for Go.
+
+## Tool
+* [highlight](https://github.com/zyedidia/highlight) - **star:19**&ensp;A Go package for syntax highlighting
+
+* [clipper](https://github.com/wincent/clipper) - **star:357**&ensp;Clipboard access for local and remote tmux sessions
+
 
 ## C
 
