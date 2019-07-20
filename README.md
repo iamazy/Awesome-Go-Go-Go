@@ -20,6 +20,8 @@ Awesome Go Go Go
 
 * [bigcache](https://github.com/allegro/bigcache) - **star:2421**&ensp;Efficient cache for gigabytes of data written in Go.
 
+* [treedb](https://github.com/kezhuw/treedb) - **star:3**&ensp;Cache path sensitive hierarchical data storage system
+
 ## Math
 * [hexd](https://github.com/tidwall/hexd) - **star:37**&ensp;Please love the nicely formatted hex.
 
