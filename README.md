@@ -125,6 +125,8 @@ Awesome Go Go Go
 
 * [CHAOS](https://github.com/tiagorlampert/CHAOS) - **star:734**&ensp;:fire: CHAOS is a PoC that allow generate payloads and control remote operating systems.
 
+* [aminal](https://github.com/liamg/aminal) - **star:1987**&ensp;A modern cross-platform terminal emulator in Go
+
 ## Net
 
 * [go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) - **star:1500**&ensp;Next-generation Shadowsocks in Go
