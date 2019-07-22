@@ -58,6 +58,8 @@ Awesome Go Go Go
 
 * [bpool](https://github.com/oxtoacart/bpool) - **star:303**&ensp;Buffer/Byte pool for Go
 
+* [bitio](https://github.com/icza/bitio) - **star:92**&ensp;Highly optimized bit-level Reader and Writer for Go.
+
 
 ## JSON
 
