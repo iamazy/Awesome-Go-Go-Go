@@ -22,6 +22,10 @@ Awesome Go Go Go
 
 * [treedb](https://github.com/kezhuw/treedb) - **star:3**&ensp;Cache path sensitive hierarchical data storage system
 
+* [golang-lru](https://github.com/hashicorp/golang-lru) - **star:1337**&ensp;Golang LRU cache
+
+* [go-memdb](https://github.com/hashicorp/go-memdb) - **star:1268**&ensp;Golang in-memory database built on immutable radix trees
+
 ## Math
 * [hexd](https://github.com/tidwall/hexd) - **star:37**&ensp;Please love the nicely formatted hex.
 
@@ -61,6 +65,7 @@ Awesome Go Go Go
 * [bitio](https://github.com/icza/bitio) - **star:92**&ensp;Highly optimized bit-level Reader and Writer for Go.
 
 
+
 ## JSON
 
 * [match](https://github.com/tidwall/match) - **star:38**&ensp;Simple string pattern matcher for Go
@@ -82,6 +87,8 @@ Awesome Go Go Go
 ## Trigger
 
 * [go-trigger](https://github.com/sadlil/go-trigger) - **star:181**&ensp;A Global event triggerer for golang. Defines functions as event with id string. Trigger the event anywhere from your project.
+
+* [triangle](https://github.com/iamazy/triangle) - **star:1376**&ensp;Convert images to computer generated art using delaunay triangulation.
 
 ## 3D
 
@@ -127,11 +134,34 @@ Awesome Go Go Go
 
 * [aminal](https://github.com/liamg/aminal) - **star:1987**&ensp;A modern cross-platform terminal emulator in Go
 
+* [tview](https://github.com/rivo/tview) - **star:3256**&ensp;Rich interactive widgets for terminal-based UIs written in Go
+
+* [micro](https://github.com/zyedidia/micro) - **star:11413**&ensp;A modern and intuitive terminal-based text editor
+
+* [gotop](https://github.com/cjbassi/gotop) - **star:5842**&ensp;A terminal based graphical activity monitor inspired by gtop and vtop
+
+* [cobra](https://github.com/spf13/cobra) - **star:13743**&ensp;A Commander for modern Go CLI interactions
+
+* [go-prompt](https://github.com/c-bata/go-prompt) - **star:2505**&ensp;Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
+
+* [peco](https://github.com/peco/peco) - **star:5513**&ensp;Simplistic interactive filtering tool
+
+* [termloop](https://github.com/JoelOtter/termloop) - **star:1034**&ensp;Terminal-based game engine for Go, built on top of Termbox
+
+* [tail](https://github.com/hpcloud/tail) - **star:1561**&ensp;Go package for reading from continously updated files (tail -f)
+
 ## Net
 
 * [go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) - **star:1500**&ensp;Next-generation Shadowsocks in Go
 
 * [go-iptables](https://github.com/coreos/go-iptables) - **star:387**&ensp;Go wrapper around iptables utility
+
+* [comcast](https://github.com/tylertreat/comcast) - **star:6209**&ensp;Simulating shitty network connections so you can build better systems.
+
+* [chi](https://github.com/go-chi/chi)  - **star:6246**&ensp;lightweight, idiomatic and composable router for building Go HTTP services
+
+* [zinx](https://github.com/aceld/zinx) - **star:1522**&ensp;基于Golang轻量级TCP并发服务器框架
+
 
 ## Schedule
 
@@ -161,6 +191,12 @@ Awesome Go Go Go
 
 * [limiter](https://github.com/tidwall/limiter) - **star:97**&ensp;A goroutine limiter for Go
 
+* [nps](https://github.com/cnlh/nps) - **star:7393**&ensp;一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。
+
+* [cow](https://github.com/cyfdecyf/cow) - **star:7863**&ensp;HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.
+
+* [lightsocks](https://github.com/gwuhaolin/lightsocks) - **star:2801**&ensp;⚡️一个轻巧的网络混淆代理🌏
+
 ## Interesting
 
 * [digitalrain](https://github.com/tidwall/digitalrain) - **star:305**&ensp;Matrix Digital Rain written in Go for HTML5 + Canvas
@@ -181,6 +217,12 @@ Awesome Go Go Go
 
 * [go-sniffer](https://github.com/40t/go-sniffer) - **star:729**&ensp;🔎Sniffing and parsing mysql,redis,http,mongodb etc protocol. 抓包截取项目中的数据库请求并解析成相应的语句。
 
+* [furious](https://github.com/liamg/furious) - **star:147**&ensp;Golang IP/port scanner with SYN (stealth) scanning and device manufacturer identification
+
+* [netscan](https://github.com/jessfraz/netscan) - **star:169**&ensp;Scan network ips and ports.
+
+* [goscan](https://github.com/marco-lancini/goscan) - **star:512**&ensp;Interactive Network Scanner
+
 ## Linq
 
 * [go-linq](https://github.com/ahmetb/go-linq) - **star:1767**&ensp;.NET LINQ capabilities in Go
@@ -198,6 +240,15 @@ Awesome Go Go Go
 
 * [clipper](https://github.com/wincent/clipper) - **star:357**&ensp;Clipboard access for local and remote tmux sessions
 
+## Stream
+
+* [livego](https://github.com/gwuhaolin/livego) - **star:1811**&ensp;纯 Go 写的直播服务器
+
+## VM
+
+* [gopher-lua](https://github.com/yuin/gopher-lua) - **star:2997**&ensp;GopherLua: VM and compiler for Lua in Go
+
+* [golua](https://github.com/Azure/golua) - **star:1737**&ensp;A Lua 5.3 engine implemented in Go
 
 ## C
 
