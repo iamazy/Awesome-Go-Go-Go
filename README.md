@@ -27,12 +27,19 @@ Awesome Go Go Go
 * [go-memdb](https://github.com/hashicorp/go-memdb) - **star:1268**&ensp;Golang in-memory database built on immutable radix trees
 
 ## Math
+
 * [hexd](https://github.com/tidwall/hexd) - **star:37**&ensp;Please love the nicely formatted hex.
 
 * [weyl](https://github.com/tidwall/weyl) - **star:6**&ensp;Middle Square Weyl Sequence RNG for Go
 
+* [sparse](https://github.com/james-bowman/sparse) - **star:74**&ensp;Sparse matrix formats for linear algebra supporting scientific and machine learning applications
+
 
 ## Algorithm & Data structure
+
+* [rref](https://github.com/jpypi/rref) - **star:2**&ensp;Reduced Row Echelon Form (Gaussian Jordan Elimination) in Go
+
+* [spanmap](https://github.com/tidwall/spanmap) - **star:43**&ensp;A fast collection type that uses uint64 for keys.
 
 * [kmeans](https://github.com/muesli/kmeans) - **star:180**&ensp;k-means clustering algorithm implementation written in Go
 
@@ -110,6 +117,8 @@ Awesome Go Go Go
 
 * [imaging](https://github.com/disintegration/imaging) - **star:2486**&ensp;Imaging is a simple image processing package for Go
 
+* [captcha](https://github.com/dchest/captcha) - **star:992**&ensp;Go package captcha implements generation and verification of image and audio CAPTCHAs. 
+
 ## Color
 
 * [colors](https://github.com/go-playground/colors) - **star:30**&ensp;:art: Go color manipulation, conversion and printing library/utility
@@ -150,7 +159,11 @@ Awesome Go Go Go
 
 * [tail](https://github.com/hpcloud/tail) - **star:1561**&ensp;Go package for reading from continously updated files (tail -f)
 
+* [gojot](https://github.com/schollz/gojot) - **star:341**&ensp;A command-line journal that is distributed and encrypted, making it easy to jot notes :notebook: 
+
 ## Net
+
+* [httpstat](https://github.com/davecheney/httpstat) - **star:4348**&ensp;It's like curl -v, with colours. 
 
 * [go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) - **star:1500**&ensp;Next-generation Shadowsocks in Go
 
@@ -162,6 +175,13 @@ Awesome Go Go Go
 
 * [zinx](https://github.com/aceld/zinx) - **star:1522**&ensp;基于Golang轻量级TCP并发服务器框架
 
+* [peerdiscovery](https://github.com/schollz/peerdiscovery) - **star:376**&ensp;Pure-Go library for cross-platform local peer discovery using UDP multicast :woman: :repeat: :woman:
+
+* [netstack](https://github.com/google/netstack) - **star:2770**&ensp;IPv4 and IPv6 userland network stack
+
+* [tcp-shaker](https://github.com/tevino/tcp-shaker) - **star:229**&ensp;:heartbeat: Performing TCP handshake without ACK in Go, useful for health checking, that is SYN, SYN-ACK, RST.
+
+* [go-udt](https://github.com/oxtoacart/go-udt) - **star:50**&ensp;Pure Go implementation of UDT
 
 ## Schedule
 
@@ -223,6 +243,10 @@ Awesome Go Go Go
 
 * [goscan](https://github.com/marco-lancini/goscan) - **star:512**&ensp;Interactive Network Scanner
 
+* [packet](https://github.com/aerogo/packet) - **star:35**&ensp;:package: Send network packets over a TCP or UDP connection.
+
+* [go-reuseport](https://github.com/libp2p/go-reuseport) - **star:304**&ensp;reuse tcp/udp ports in golang
+
 ## Linq
 
 * [go-linq](https://github.com/ahmetb/go-linq) - **star:1767**&ensp;.NET LINQ capabilities in Go
@@ -239,6 +263,10 @@ Awesome Go Go Go
 * [highlight](https://github.com/zyedidia/highlight) - **star:19**&ensp;A Go package for syntax highlighting
 
 * [clipper](https://github.com/wincent/clipper) - **star:357**&ensp;Clipboard access for local and remote tmux sessions
+
+* [regommend](https://github.com/muesli/regommend) - **star:252**&ensp;Recommendation engine for Go
+
+* [go-spew](https://github.com/davecgh/go-spew) - **star:3361**&ensp;Implements a deep pretty printer for Go data structures to aid in debugging
 
 ## Stream
 
