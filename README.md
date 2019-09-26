@@ -67,6 +67,8 @@ Awesome Go Go Go
 
 * [grect](https://github.com/tidwall/grect) - **star:2**&ensp;Get the outer rectangle from GeoJSON, WKT, WKB
 
+* [shardmap](https://github.com/tidwall/shardmap) - **star:51**&ensp;A simple and efficient thread-safe sharded hashmap for Go
+
 * [bpool](https://github.com/oxtoacart/bpool) - **star:303**&ensp;Buffer/Byte pool for Go
 
 * [bitio](https://github.com/icza/bitio) - **star:92**&ensp;Highly optimized bit-level Reader and Writer for Go.
